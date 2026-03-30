@@ -1,0 +1,6 @@
+[submodule "honor_of_kings"]
+	path = honor_of_kings
+	url = https://github.com/zenvor/openpeon-honor-of-kings
+[submodule "ra2_eva_commander"]
+	path = ra2_eva_commander
+	url = https://github.com/zenvor/openpeon-ra2-eva-commander
