@@ -1,6 +1,6 @@
 # openpeon-packs
 
-Community CESP sound packs for [peon-ping](https://github.com/PeonPing/peon-ping).
+A curated collection of CESP sound packs for [peon-ping](https://github.com/PeonPing/peon-ping).
 
 ## Packs
 
@@ -20,4 +20,4 @@ peon packs use --install ra2_eva_commander
 
 ## License
 
-MIT
+Audio content: CC-BY-NC-4.0 (see each pack's `openpeon.json`). Repository structure: MIT.
